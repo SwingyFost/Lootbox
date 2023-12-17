@@ -1,0 +1,9 @@
+name: Lootbox
+api: 5.0.0
+version: 1.0.0
+main: frostcheat\Main
+author: FrostCheat
+
+permissions:
+  lootbox.command:
+    default: op
