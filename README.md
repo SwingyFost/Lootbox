@@ -1,6 +1,12 @@
-A partner packages plugin for your hcf server.
+A lootbox plugin for your hcf server.
 
 # Commands
-- /pp edit (Set items in partner package)
-- /pp items (See items in partner packages)
-- /pp give (Give partner packages)
+- /lootbox setitems (Set items in lootbox)
+- /lootbox give player|all [int: amount] (Give lootboxes)
+
+# Permission:
+- lootbox.command
+
+# Features:
+- Autosave of items
+- Animation on interact
